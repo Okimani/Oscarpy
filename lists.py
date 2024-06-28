@@ -1,5 +1,5 @@
 from array import array # this has got  nothing to do with lists. it is for the arrays below the lists
-names = ['Margaret', 'Oscar', 'Gianna'] #This is how you create lists in python
+names = ['Margaret', 'George', 'Richard'] #This is how you create lists in python
 scores = [] # creating an empty list
 scores.append(100)
 scores.append(70)
