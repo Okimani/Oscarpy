@@ -10,7 +10,7 @@ print(my_numbers)
 print(names)
 print(scores)
 print(scores[3]) # prints the 4th item at index 3, indexes start from 0
-print(names[2]) # This will print Gianna which is at index 2
+print(names[2]) # This will print George which is at index 2
 
 #Python also supports arrays you just run the from array import array command
 item = array('d') #Indicate the numeric data type we're gonna be using in this case 'double'
@@ -18,7 +18,7 @@ item.append(98)
 item.append(99)
 item.append(100)
 print(item)
-print(item[2])
+print(item[2])https://github.com/Okimani/Oscarpy/tree/master
 #Difference between arrays and lists is that arrays allow you to store numeric data types
 #and everything in there has to be the same data type. 
 #Lists on the other hand enable you to store anything.
